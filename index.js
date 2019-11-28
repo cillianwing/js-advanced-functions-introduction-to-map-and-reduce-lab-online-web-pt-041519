@@ -13,4 +13,5 @@ function mapToNoChange(sourceArray) {
   //   arr.push(sourceArray[i]);
   // }
   // return arr;
+  return sourceArray;
 }
