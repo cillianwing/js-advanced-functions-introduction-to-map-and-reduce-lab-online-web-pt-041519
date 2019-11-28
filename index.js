@@ -6,3 +6,7 @@ function mapToNegativize(sourceArray) {
   }
   return arr;
 }
+
+function mapToNoChange(sourceArray) {
+  
+}
