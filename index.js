@@ -45,5 +45,6 @@ function reduceToAllTrue(sourceArray) {
     if (sourceArray[i]) {continue}
     return false;
   }
+  return true;
 }
 
