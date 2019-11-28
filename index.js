@@ -8,5 +8,9 @@ function mapToNegativize(sourceArray) {
 }
 
 function mapToNoChange(sourceArray) {
-  
+  let arr = []
+  for (let i = 0; i < sourceArray.length; i++) {
+    arr.push(sourceArray[i]);
+  }
+  return arr;
 }
