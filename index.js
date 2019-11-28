@@ -48,3 +48,7 @@ function reduceToAllTrue(sourceArray) {
   return true;
 }
 
+function reduceToAnyTrue(sourceArray) {
+  
+}
+
